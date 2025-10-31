@@ -13,7 +13,7 @@ I’m a **Technical Product Owner** with 3+ years’ experience leading backend 
 ## 🧠 Tech Stack
 **Languages:** TypeScript (current), Python (academic), SQL (academic)
 **Databases:** MongoDB (current), PostgreSQL (academic)
-**Cloud:** AWS (current)
+   **Cloud:** AWS (current)
 **Tools:** GitHub, Postman, JIRA, Excel
 
 ---
