@@ -19,7 +19,7 @@ I’m a **Technical Product Owner** with 3+ years’ experience leading backend 
 ---
 
 ## 🚀 Current Project
-I’m currently developing a personal **API project** using AWS, MongoDB, TypeScript, and GitHub — building cloud experience while travelling globally.  
+I’m currently developing a personal **API project** using AWS, MongoDB, JavaScript, and GitHub — building cloud experience while travelling globally.  
 
 ---
 
